@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+<html>
+<style>
+body {
+background-color: orange;
+}
+.center 
+{
+margin: auto;
+width: 60%;
+border: 5px solid orange;
+padding: 8px;
+text-align: center;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+p 
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 32px;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: blue;
+text-align: center;
+padding: 12px 14px;
+text-decoration: none;
+}
+
+li a :hover {
+background-color: white;
+}
+  
+</style>
+<title> Sydney </title> 
+</head>
+<body>
+<ul>
+<li><a href="index.html".html>index</a></li>
+<li><a href="storia.html">Storia</a></li>
+<li><a href="cosa visitare.html">cosa visitare</a></li>
+<li><a href="curiosita.html">curiosità</a></li>
+</ul>
+<div class="center"> 
+</div>
+<div class="center"><h2>curiosità</h2></div>
+<div class="center"><h3>Sydney</h3></div>
+<p> L’Australia è conosciuta come il paese più urbanizzato del mondo,
+con più grattacieli pro capite, per abitante di qualsiasi altra città.
+Ma lo sapevate che è anche una delle città più costose del pianeta?
+Da un indagine del 2014, che ha preso in esame 131 città, è risultato è la quinta città più costosa</p>
+<img src="sydney-reuters-telefoto-672.jpg" width="750" height="350"/>
+<div class="center"><h3>Bondi beach</h3></div>
+<p>Bondi è probabilmente uno dei tratti di sabbia più famosi del mondo, 
+frequentato da nuotatori, surfisti, amanti della tintarella, artisti, attori, magnati dei media e comunità di ogni genere,
+che rendono questa spiaggia un posto molto vivace. 
+Qui i bagnanti hanno a disposizione gratuitamente barbecue elettrici pubblici
+gratuiti per organizzare saporiti picnic godendosi il luogo più famoso di Sydney.</p>
+<img src="Bondi.jpg" width="750" height="350" />
+<div class="center"><h3>costruzione sydney opera house</h3></div>
+<p>La Sydney Opera House è uno degli edifici più famosi e riconoscibili del mondo,
+patrimonio dell’Umanità dell’UNESCO. Fu progettata dal danese Jorn Utzon
+he sconfisse altri 232 architetti nella gara per la progettazione del teatro.
+La sua costruzione fu piuttosto faticosa, perchè non solo il costo di realizzazione
+passò da 7 a 102 millioni di dollari (quando si dice superare il budget), 
+ma anche perchè richiese 14 anni di lavoro e l’impiego di 100,000 lavoratori edili.</p>
+<img src="costruzione sydney opera.jpg" width="750" height="350"/>
+</body>
+</html>
