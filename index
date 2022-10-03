@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body 
+{
+background-color: orange;
+}
+table 
+{
+font-family:'Times New Roman', Times, serif;
+border-collapse: dashed;
+width: 100%;
+}
+
+td, th 
+{
+border: 5px solid black;
+text-align: left;
+padding: 10px;
+}
+
+.center 
+{
+margin: auto;
+width: 60%;
+border: 3px dashed orange;
+padding: 10px;
+text-align: center;       
+}
+
+p 
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+ul 
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+  
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: blue;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a :hover {
+background-color: white;
+}
+
+
+
+  
+</style>
+<title> Sydney  </title> 
+</head>
+<body>
+<ul>
+<li><a href="index.html">index</a></li>
+<li><a href="storia.html">Storia</a></li>
+<li><a href="cosa visitare.html">cosa visitare</a></li>
+<li><a href="curiosita.html">curiosità</a></li>
+</ul>
+<br>
+<div class="center">
+<h1>Sydney</h1>
+</div>
+<p> sydney è la capitale del nuovo Galles del Sud 
+ed è una delle più grandi città australiane. 
+è una città australiana di 5 131 326 abitanti  
+È la più popolosa città dell'Oceania 
+nonché una delle più multiculturali del mondo.
+
+Sydney è una destinazione turistica
+internazionale noto per le sue attrazioni, come il
+Sydney Opera House,
+Questo è uno dei più famosi edifici del XX secolo 
+A forma di barca a vela. O l'Harbour Bridge. 
+Quest'ultimo è un ponte ad arco in acciaio 
+che è anche uno dei simboli della città e Australia.
+        
+
+</p>
+<table>
+<tr>
+<th>popolazione</th>
+<th>Clima</th>
+<th>Settore prevalente</th>
+</tr>
+<tr>
+<td>5 131 326 </td>
+<td>temperato oceanico</td>
+<td> terziario</td>
+</tr>
+<tr>
+<th>gli abitanti di sydney sono per la maggiorparte immigrati.</th>
+<th> estati calde, talvolta bollenti, e inverni miti, e con precipitazioni distribuite durante tutto l'anno. Il clima è moderato dalla vicinanza all'oceano, e le temperature più estreme si trovano nella periferia occidentale dell'entroterra.</th>
+<th> Il suo sviluppo e la sua prosperità economica si basa sulle esportazioni di materie prime e prodotti agricoli</th>
+</tr>
+<tr>
+<th>Le lingue che si usano: Si dividono in due gruppi: le lingue australiane aborigene, cioè native e le lingue australiane non native. Tra queste ultime ovviamente spicca l'inglese, unica lingua ufficiale, che in Australia ha assunto una forma particolare, l'inglese australiano.
+ Oltre l'inglese, con i flussi migratori a partire dal secondo dopoguerra, in Australia son presenti lingue e dialetti da tutto il mondo, dall'Europa al Pacifico passando per l'Asia e Africa.</th>
+<th>Raramente colpita da cicloni tropicali, la città è soggetta a grandinate e a forti venti. Un esempio è costituito dalla grandinata, abbattutasi su Sydney nel 1999, che ne danneggiò severamente la zona orientale e la periferia.</th>
+<th> L'industria del turismo e dei media del settore è molto dinamico, così come il sistema finanziario (servizi di internet banking sono molto sviluppati) e la vendita al dettaglio (sviluppo di grandi centri commerciali).</th>
+</tr>
+</table>
+</body>
+</html>
+<img src="sydney.jpg" width="300" height="150"/>
